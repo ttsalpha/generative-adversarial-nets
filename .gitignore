@@ -12,3 +12,19 @@
 # Misc
 .DS_Store
 .idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# virtualenv
+venv
+ENV
